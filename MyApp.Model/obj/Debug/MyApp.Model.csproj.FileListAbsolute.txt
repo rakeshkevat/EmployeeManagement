@@ -1,0 +1,6 @@
+C:\Users\Xaller infotech\source\repos\MyApp.Model\bin\Debug\MyApp.Model.dll
+C:\Users\Xaller infotech\source\repos\MyApp.Model\bin\Debug\MyApp.Model.pdb
+C:\Users\Xaller infotech\source\repos\MyApp.Model\obj\Debug\MyApp.Model.csproj.CoreCompileInputs.cache
+C:\Users\Xaller infotech\source\repos\MyApp.Model\obj\Debug\MyApp.Model.dll
+C:\Users\Xaller infotech\source\repos\MyApp.Model\obj\Debug\MyApp.Model.pdb
+C:\Users\Xaller infotech\source\repos\MyApp.Model\obj\Debug\MyApp.Model.csprojAssemblyReference.cache
